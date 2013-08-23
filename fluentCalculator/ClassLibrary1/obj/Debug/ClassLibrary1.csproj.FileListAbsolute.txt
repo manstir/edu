@@ -1,0 +1,6 @@
+c:\users\flo\documents\visual studio 2012\Projects\fluentCalculator\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\flo\documents\visual studio 2012\Projects\fluentCalculator\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\flo\documents\visual studio 2012\Projects\fluentCalculator\ClassLibrary1\bin\Debug\nunit.framework.dll
+c:\users\flo\documents\visual studio 2012\Projects\fluentCalculator\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\flo\documents\visual studio 2012\Projects\fluentCalculator\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+c:\users\flo\documents\visual studio 2012\Projects\fluentCalculator\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache

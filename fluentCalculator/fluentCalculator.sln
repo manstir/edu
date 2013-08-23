@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluentCalculator", "fluentCalculator\fluentCalculator.csproj", "{C9C5B911-C62D-4D56-B083-395CAD9F6AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{5FD92037-296D-40BE-B07D-A69DD3ABBF62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C5B911-C62D-4D56-B083-395CAD9F6AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C5B911-C62D-4D56-B083-395CAD9F6AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C5B911-C62D-4D56-B083-395CAD9F6AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C5B911-C62D-4D56-B083-395CAD9F6AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD92037-296D-40BE-B07D-A69DD3ABBF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD92037-296D-40BE-B07D-A69DD3ABBF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD92037-296D-40BE-B07D-A69DD3ABBF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD92037-296D-40BE-B07D-A69DD3ABBF62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

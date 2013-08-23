@@ -1,0 +1,2 @@
+c:\users\flo\documents\visual studio 2012\Projects\fluentCalculator\fluentCalculator\bin\Debug\fluentCalculator.exe.config
+c:\users\flo\documents\visual studio 2012\Projects\fluentCalculator\fluentCalculator\obj\Debug\fluentCalculator.csprojResolveAssemblyReference.cache
