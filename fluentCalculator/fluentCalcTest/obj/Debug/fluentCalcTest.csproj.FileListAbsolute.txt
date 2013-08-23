@@ -1,0 +1,1 @@
+C:\GIT\edu\fluentCalculator\fluentCalcTest\obj\Debug\fluentCalcTest.csprojResolveAssemblyReference.cache

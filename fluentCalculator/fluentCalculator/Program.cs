@@ -1,22 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit.Framework;
-
-namespace fluentCalculator
+﻿namespace fluentCalculator
 {
-    [TestFixture]
-    public class Test
-    {
-        [Test]
-        public void test()
-        {
-                Assert.AreEqual(10, (int)new Calculator().Calc(10));
-        }
-    }
-
     public class Calculator
     {
         private Calculator _instance;
