@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace fluentCalculator
+﻿namespace fluentCalculator
 {
-   public class Calculator
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+    public class Calculator
     {
         private Stack<Func<int, int>> _actions; 
         private Stack<Func<int, int>> _undone; 

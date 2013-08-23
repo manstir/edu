@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluentCalc", "ClassLibrary1\fluentCalc.csproj", "{5FD92037-296D-40BE-B07D-A69DD3ABBF62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluentCalc", "fluentCalc\fluentCalc.csproj", "{5FD92037-296D-40BE-B07D-A69DD3ABBF62}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluentCalcTest", "fluentCalcTest\fluentCalcTest.csproj", "{EFF07F30-0B0B-41A2-8C11-1FA14971F11F}"
 EndProject
